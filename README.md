@@ -1,1 +1,1 @@
-# Go-Hex-arch
+# Go-Domain-Design-Approach
